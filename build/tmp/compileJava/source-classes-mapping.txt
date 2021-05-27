@@ -1,6 +1,8 @@
 ejercicio1/CompararNumeros.java
  ejercicio1.CompararNumeros
-main.java
- main
 ejercicio2/CompararNumeros2.java
  ejercicio2.CompararNumeros2
+main.java
+ main
+ejercicio3/AreaCirculo.java
+ ejercicio3.AreaCirculo

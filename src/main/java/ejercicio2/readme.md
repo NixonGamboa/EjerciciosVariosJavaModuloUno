@@ -1,3 +1,3 @@
-##2. Ejercicios Propuestos
+### 2. Ejercicios Propuestos
 
 2. Al ejercicio anterior agregar entrada por consola de dos valores e indicar si son mayores, menores o iguales.
