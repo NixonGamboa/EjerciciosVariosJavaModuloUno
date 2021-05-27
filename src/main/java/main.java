@@ -5,6 +5,7 @@ import ejercicio4.PrecioGravado;
 import ejercicio5.ParesEImpares;
 import ejercicio6.ParesImparesFor;
 import ejercicio7.MayorIgualCero;
+import ejercicio8.EsLaboral;
 
 public class main {
     public static void main(String[] args) {
@@ -28,9 +29,10 @@ public class main {
         //ParesImparesFor.run();
 
         ////Ejercicio 7
-        MayorIgualCero.run();
+        //MayorIgualCero.run();
 
-
+        ////Ejercicio 8
+        EsLaboral.run();
 
     }
 }

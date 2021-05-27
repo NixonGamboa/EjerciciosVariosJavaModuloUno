@@ -14,3 +14,5 @@ ejercicio7/MayorIgualCero.java
  ejercicio7.MayorIgualCero
 main.java
  main
+ejercicio8/EsLaboral.java
+ ejercicio8.EsLaboral
