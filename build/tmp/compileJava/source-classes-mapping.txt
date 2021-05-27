@@ -1,10 +1,12 @@
-ejercicio1/CompararNumeros.java
- ejercicio1.CompararNumeros
-ejercicio2/CompararNumeros2.java
- ejercicio2.CompararNumeros2
-ejercicio3/AreaCirculo.java
- ejercicio3.AreaCirculo
 ejercicio4/PrecioGravado.java
  ejercicio4.PrecioGravado
 main.java
  main
+ejercicio2/CompararNumeros2.java
+ ejercicio2.CompararNumeros2
+ejercicio3/AreaCirculo.java
+ ejercicio3.AreaCirculo
+ejercicio1/CompararNumeros.java
+ ejercicio1.CompararNumeros
+ejercicio5/ParesEImpares.java
+ ejercicio5.ParesEImpares
