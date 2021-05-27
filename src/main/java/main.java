@@ -1,6 +1,7 @@
 import ejercicio1.CompararNumeros;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
+import ejercicio4.PrecioGravado;
 
 public class main {
     public static void main(String[] args) {
@@ -12,7 +13,10 @@ public class main {
         //CompararNumeros2.run();
 
         ////Ejercicio 3
-        AreaCirculo.run();
+        //AreaCirculo.run();
+
+        ////Ejercicio 4
+        PrecioGravado.run();
 
 
     }
