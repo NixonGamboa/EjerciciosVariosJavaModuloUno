@@ -1,4 +1,6 @@
-main.java
- main
 ejercicio1/CompararNumeros.java
  ejercicio1.CompararNumeros
+main.java
+ main
+ejercicio2/CompararNumeros2.java
+ ejercicio2.CompararNumeros2
