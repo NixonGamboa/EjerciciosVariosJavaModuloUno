@@ -1,12 +1,14 @@
 ejercicio4/PrecioGravado.java
  ejercicio4.PrecioGravado
-main.java
- main
+ejercicio5/ParesEImpares.java
+ ejercicio5.ParesEImpares
 ejercicio2/CompararNumeros2.java
  ejercicio2.CompararNumeros2
 ejercicio3/AreaCirculo.java
  ejercicio3.AreaCirculo
 ejercicio1/CompararNumeros.java
  ejercicio1.CompararNumeros
-ejercicio5/ParesEImpares.java
- ejercicio5.ParesEImpares
+ejercicio6/ParesImparesFor.java
+ ejercicio6.ParesImparesFor
+main.java
+ main

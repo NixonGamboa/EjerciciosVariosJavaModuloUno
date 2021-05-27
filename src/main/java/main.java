@@ -3,6 +3,7 @@ import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
 import ejercicio5.ParesEImpares;
+import ejercicio6.ParesImparesFor;
 
 public class main {
     public static void main(String[] args) {
@@ -19,8 +20,12 @@ public class main {
         ////Ejercicio 4
         //PrecioGravado.run();
 
-        //// Ejercicio 5
-        ParesEImpares.run();
+        ////Ejercicio 5
+        //ParesEImpares.run();
+
+        ////Ejercicio 6
+        ParesImparesFor.run();
+
 
 
     }
