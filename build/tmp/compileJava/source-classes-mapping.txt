@@ -10,5 +10,7 @@ ejercicio1/CompararNumeros.java
  ejercicio1.CompararNumeros
 ejercicio6/ParesImparesFor.java
  ejercicio6.ParesImparesFor
+ejercicio7/MayorIgualCero.java
+ ejercicio7.MayorIgualCero
 main.java
  main
