@@ -4,15 +4,17 @@ ejercicio5/ParesEImpares.java
  ejercicio5.ParesEImpares
 ejercicio2/CompararNumeros2.java
  ejercicio2.CompararNumeros2
-ejercicio3/AreaCirculo.java
- ejercicio3.AreaCirculo
+ejercicio7/MayorIgualCero.java
+ ejercicio7.MayorIgualCero
 ejercicio1/CompararNumeros.java
  ejercicio1.CompararNumeros
 ejercicio6/ParesImparesFor.java
  ejercicio6.ParesImparesFor
-ejercicio7/MayorIgualCero.java
- ejercicio7.MayorIgualCero
-main.java
- main
 ejercicio8/EsLaboral.java
  ejercicio8.EsLaboral
+ejercicio3/AreaCirculo.java
+ ejercicio3.AreaCirculo
+main.java
+ main
+ejercicio9/OperacionesString.java
+ ejercicio9.OperacionesString

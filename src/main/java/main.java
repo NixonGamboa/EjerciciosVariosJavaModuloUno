@@ -6,6 +6,7 @@ import ejercicio5.ParesEImpares;
 import ejercicio6.ParesImparesFor;
 import ejercicio7.MayorIgualCero;
 import ejercicio8.EsLaboral;
+import ejercicio9.OperacionesString;
 
 public class main {
     public static void main(String[] args) {
@@ -32,7 +33,11 @@ public class main {
         //MayorIgualCero.run();
 
         ////Ejercicio 8
-        EsLaboral.run();
+        //EsLaboral.run();
+
+        ////Ejercicio 9
+        OperacionesString.run();
+
 
     }
 }
