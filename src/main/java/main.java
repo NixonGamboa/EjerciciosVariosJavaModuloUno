@@ -5,6 +5,7 @@ import ejercicio12.CompararPalabras;
 import ejercicio13.HoraActual;
 import ejercicio14.ConteoA1000;
 import ejercicio15.Menu;
+import ejercicio16.Ejecutable;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
@@ -60,6 +61,9 @@ public class main {
         //ConteoA1000.run();
 
         ////Ejercicio 15
-        Menu.run();
+        //Menu.run();
+
+        ////Ejercicio 16
+        Ejecutable.run();
     }
 }

@@ -26,7 +26,11 @@ ejercicio5/ParesEImpares.java
  ejercicio5.ParesEImpares
 ejercicio3/AreaCirculo.java
  ejercicio3.AreaCirculo
-main.java
- main
 ejercicio15/Menu.java
  ejercicio15.Menu
+main.java
+ main
+ejercicio16/Persona.java
+ ejercicio16.Persona
+ejercicio16/Ejecutable.java
+ ejercicio16.Ejecutable
