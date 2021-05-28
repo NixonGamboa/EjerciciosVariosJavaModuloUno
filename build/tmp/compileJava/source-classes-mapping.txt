@@ -18,7 +18,9 @@ ejercicio10/EliminarEspacios.java
  ejercicio10.EliminarEspacios
 ejercicio9/OperacionesString.java
  ejercicio9.OperacionesString
-main.java
- main
 ejercicio11/CadenaDescriptiva.java
  ejercicio11.CadenaDescriptiva
+main.java
+ main
+ejercicio12/CompararPalabras.java
+ ejercicio12.CompararPalabras
