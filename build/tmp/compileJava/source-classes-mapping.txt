@@ -20,3 +20,5 @@ ejercicio9/OperacionesString.java
  ejercicio9.OperacionesString
 main.java
  main
+ejercicio11/CadenaDescriptiva.java
+ ejercicio11.CadenaDescriptiva

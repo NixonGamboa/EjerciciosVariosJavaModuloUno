@@ -1,5 +1,6 @@
 import ejercicio1.CompararNumeros;
 import ejercicio10.EliminarEspacios;
+import ejercicio11.CadenaDescriptiva;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
@@ -40,7 +41,10 @@ public class main {
         //OperacionesString.run();
 
         ////Ejercicio 10
-        EliminarEspacios.run();
+        //EliminarEspacios.run();
+
+        ////Ejercicio 11
+        CadenaDescriptiva.run();
 
     }
 }
