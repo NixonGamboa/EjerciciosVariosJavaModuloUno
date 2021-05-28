@@ -2,6 +2,7 @@ import ejercicio1.CompararNumeros;
 import ejercicio10.EliminarEspacios;
 import ejercicio11.CadenaDescriptiva;
 import ejercicio12.CompararPalabras;
+import ejercicio13.HoraActual;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
@@ -48,6 +49,9 @@ public class main {
         //CadenaDescriptiva.run();
 
         ////Ejercicio 12
-        CompararPalabras.run();
+        //CompararPalabras.run();
+
+        ////Ejercicio 13
+        HoraActual.run();
     }
 }
