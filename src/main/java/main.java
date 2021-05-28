@@ -4,6 +4,7 @@ import ejercicio11.CadenaDescriptiva;
 import ejercicio12.CompararPalabras;
 import ejercicio13.HoraActual;
 import ejercicio14.ConteoA1000;
+import ejercicio15.Menu;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
@@ -56,6 +57,9 @@ public class main {
         //HoraActual.run();}
 
         ////Ejercicio 14
-        ConteoA1000.run();
+        //ConteoA1000.run();
+
+        ////Ejercicio 15
+        Menu.run();
     }
 }
