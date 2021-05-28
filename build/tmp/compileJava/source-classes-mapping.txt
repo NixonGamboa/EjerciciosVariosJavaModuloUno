@@ -14,7 +14,9 @@ ejercicio8/EsLaboral.java
  ejercicio8.EsLaboral
 ejercicio3/AreaCirculo.java
  ejercicio3.AreaCirculo
-main.java
- main
+ejercicio10/EliminarEspacios.java
+ ejercicio10.EliminarEspacios
 ejercicio9/OperacionesString.java
  ejercicio9.OperacionesString
+main.java
+ main

@@ -1,4 +1,5 @@
 import ejercicio1.CompararNumeros;
+import ejercicio10.EliminarEspacios;
 import ejercicio2.CompararNumeros2;
 import ejercicio3.AreaCirculo;
 import ejercicio4.PrecioGravado;
@@ -36,8 +37,10 @@ public class main {
         //EsLaboral.run();
 
         ////Ejercicio 9
-        OperacionesString.run();
+        //OperacionesString.run();
 
+        ////Ejercicio 10
+        EliminarEspacios.run();
 
     }
 }
